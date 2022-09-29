@@ -8,5 +8,3 @@ O site pode ser acessado pelo link:
 * HTML 5
 * CSS3
 
-## Screenshot
-![](/imgs/site.png)
